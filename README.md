@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nithin @CodeLearner-N
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning java,html,css,js.
+- 🌱 I’m aware of java,html,css,js(react,node).
 - 💞️ I’m looking to collaborate with the learners like me..
 - 📫 How to reach me ... you can reach me through instagram@21_chinni_krishna
 
