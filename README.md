@@ -6,39 +6,40 @@
 
 ---
 
-## 🔧 Tech Stack (with Proficiency)
+## 🔧 Tech Stack
 
-**Frontend**
-- HTML ![90%](https://progress-bar.dev/90/)
-- CSS ![85%](https://progress-bar.dev/85/)
-- JavaScript ![80%](https://progress-bar.dev/80/)
-- React.js ![80%](https://progress-bar.dev/80/)
+### 🖼️ Frontend
+- **HTML**        ▓▓▓▓▓▓▓▓▓░ 90%
+- **CSS**         ▓▓▓▓▓▓▓▓░░ 85%
+- **JavaScript**  ▓▓▓▓▓▓▓░░░ 80%
+- **React.js**    ▓▓▓▓▓▓▓░░░ 80%
 
-**Backend**
-- Java ![85%](https://progress-bar.dev/85/)
-- Spring Boot ![75%](https://progress-bar.dev/75/)
-- JDBC ![70%](https://progress-bar.dev/70/)
+### ⚙️ Backend
+- **Java**        ▓▓▓▓▓▓▓▓░░ 85%
+- **Spring Boot** ▓▓▓▓▓▓░░░░ 75%
+- **JDBC**        ▓▓▓▓▓░░░░░ 70%
 
-**Database**
-- MySQL ![75%](https://progress-bar.dev/75/)
+### 🛢️ Database
+- **MySQL**       ▓▓▓▓▓▓░░░░ 75%
 
-**Tools**
-- Git & GitHub ![90%](https://progress-bar.dev/90/)
-- VS Code ![85%](https://progress-bar.dev/85/)
-- Postman ![75%](https://progress-bar.dev/75/)
+### 🛠️ Tools
+- **Git & GitHub** ▓▓▓▓▓░░░░░ 75%
+- **VS Code**      ▓▓▓▓▓▓▓░░░ 85%
+- **Postman**      ▓▓▓▓▓░░░░░ 75%
 
 ---
 
 ## 🧠 Current Focus
-- 🔄 Travellers Site using React, Spring Boot, JDBC
-- 🌱 Learning MySQL & Full Stack Integration
+- 🔄 Travellers Site using React, Spring Boot, JDBC  
+- 🌱 Learning MySQL & Full Stack Integration  
 
 ---
 
 ## 🔥 Featured Projects
-- [Travel Buddy](#): A platform to find travel companions  
-- [Laundry Management App](#): Manage laundry tasks efficiently  
-- Funny Game Applications built using React
+- 🚗 [Travel Buddy](#): A platform to find travel companions  
+- 🧺 [Laundry Management App](#): Manage laundry tasks efficiently  
+- 🎮 Funny Game Applications built using React
+- 📖 Educational Task Mangment System 
 
 ---
 
